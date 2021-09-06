@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "07c91c54fcef18f5a213b73f3b6d5e1b"
+build_time: [1630883613, 152260000]
+inputs:
+  "/Users/hazuki/Desktop/13/la/lifeistech/Gram/Gram/ViewController.swift": [1630883613, 26115030]
+  "/Users/hazuki/Desktop/13/la/lifeistech/Gram/Gram/AppDelegate.swift": [1630883356, 935606176]
+  "/Users/hazuki/Desktop/13/la/lifeistech/Gram/Gram/SceneDelegate.swift": [1630883356, 939230678]

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>13376ABB-0A45-48AD-827A-E539BAED0BC3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>13376ABB-0A45-48AD-827A-E539BAED0BC3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gram</string>
+			<key>timeStartedRecording</key>
+			<real>652580832.97028005</real>
+			<key>timeStoppedRecording</key>
+			<real>652580836.95942497</real>
+			<key>title</key>
+			<string>Build Gram</string>
+			<key>uniqueIdentifier</key>
+			<string>13376ABB-0A45-48AD-827A-E539BAED0BC3</string>
+		</dict>
+		<key>D5D084A3-B7BA-4F00-ACB8-B3BC0E85A56F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D5D084A3-B7BA-4F00-ACB8-B3BC0E85A56F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gram project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gram</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gram</string>
+			<key>timeStartedRecording</key>
+			<real>652580925.87812197</real>
+			<key>timeStoppedRecording</key>
+			<real>652580926.39679599</real>
+			<key>title</key>
+			<string>Build Gram</string>
+			<key>uniqueIdentifier</key>
+			<string>D5D084A3-B7BA-4F00-ACB8-B3BC0E85A56F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
